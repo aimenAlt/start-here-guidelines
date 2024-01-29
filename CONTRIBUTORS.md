@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+The Guy
 
 - [subutian](https://github.com/krishvsoni)
 
